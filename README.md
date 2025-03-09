@@ -26,11 +26,11 @@ The Student Grade Tracker is a Java-based application that enables users to effi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-grade-tracker.git
+   git clone https://github.com/MohAsef-Qayumi/codealpha_tasks
    ```
 2. Navigate to the project directory:
    ```bash
-   cd student-grade-tracker
+   cd codealpha_tasks
    ```
 3. Open the project in your preferred IDE.
 4. Compile and run the main class.
